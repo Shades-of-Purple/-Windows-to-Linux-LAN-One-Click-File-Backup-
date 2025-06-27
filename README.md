@@ -1,5 +1,5 @@
 # Windows-to-Linux LAN One-Click File Backup
-A Python script that automates a complete file backup over a local wifi network, specifically designed to backup Windows user folders to a Linux backup server running Samba.
+A Python script that automates a complete file backup over a local Wi-Fi network, specifically designed to backup Windows user folders to a Linux backup server running Samba.
 
 ## Features
 * Just one click to run the script and initiate a backup for all files in the specified folders.
